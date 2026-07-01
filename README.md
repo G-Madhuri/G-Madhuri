@@ -47,6 +47,7 @@ Currently exploring **Software Engineering, Backend Systems, AI Engineering, and
 - ✍️ Scribe — Real-time content publishing platform
 - 🌏 Multilingual Scene Text Recognition - Telugu, Bengali, Odiya
 - 👗 Zenvia — AI-powered Fashion Intelligence System
+- 🤖 Multimodal Pathology Visual Question Answering System
 
 ---
 
