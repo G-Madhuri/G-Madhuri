@@ -58,7 +58,6 @@ Passionate about building scalable software and AI-powered applications.
 <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR-E91E63?style=for-the-badge"/>
 
 </p>
 
