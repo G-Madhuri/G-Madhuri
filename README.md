@@ -74,19 +74,6 @@ Passionate about building scalable software and AI-powered applications.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=G-Madhuri&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Madhuri&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=G-Madhuri&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🤝 Connect with Me
 
