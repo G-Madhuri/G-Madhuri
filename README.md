@@ -8,10 +8,6 @@ Software Engineer • AI Engineer • Computer Science (AI & ML) Undergraduate
 Passionate about building scalable software and AI-powered applications.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=G-Madhuri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 - 🌱 **Currently learning:** System Design, Distributed Systems, AI Agents & Advanced LLM Applications
