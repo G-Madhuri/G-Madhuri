@@ -76,7 +76,4 @@ Passionate about building scalable software and AI-powered applications.
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="45"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
 </p>
