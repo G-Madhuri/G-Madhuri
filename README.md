@@ -8,7 +8,7 @@
 
 I'm a Computer Science undergraduate passionate about building software that's **scalable, reliable, and intelligent**.
 
-My work spans **backend development, full-stack applications, distributed systems, and AI** — from enterprise-grade software and REST APIs to computer vision, NLP, speech technologies, and LLM-powered tools. I enjoy taking ideas from research and turning them into practical, production-ready applications.
+My work spans **backend development, full-stack applications, Machine Learning, and AI** — from enterprise-grade software and REST APIs to computer vision, NLP, speech technologies, and LLM-powered tools. I enjoy taking ideas from research and turning them into practical, production-ready applications.
 
 Currently exploring **Software Engineering, Backend Systems, AI Engineering, and System Design** while continuously improving my problem-solving and development skills.
 
@@ -26,26 +26,17 @@ Currently exploring **Software Engineering, Backend Systems, AI Engineering, and
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
-`Python` • `Java` • `C`
+### 💻 Languages & Core CS
+`Python` • `Java` • `C` • `Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Database Design`
 
-### 🤖 Machine Learning & AI
-`Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Transformers` • `Generative AI` • `OCR` • `Speech Recognition` • `Vision-Language Models` • `PyTorch` • `TensorFlow`
+### ⚙️ Software Engineering
+`React.js` • `Node.js` • `Express.js` • `FastAPI` • `Flask` • `REST APIs` • `HTML` • `CSS` • `Bootstrap` • `Angular`
 
-### ⚙️ Backend & Full Stack
-`React.js` • `Node.js` • `Express.js` • `Flask` • `FastAPI` • `REST APIs` • `HTML` • `CSS` • `Bootstrap` • `Angular`
+### 🤖 AI & Machine Learning
+`Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Transformers` • `Generative AI` • `LLMs` • `RAG` • `OCR` • `Speech Recognition` • `Vision-Language Models` • `PyTorch` • `TensorFlow`
 
-### 🗄️ Databases
-`MySQL` • `MongoDB` • `Firebase`
-
-### ⚙️ DevOps & Tools
-`Git` • `GitHub` • `Docker` • `Linux` • `Postman` • `GitHub Actions` • `AWS` • `Azure`
-
-### 🧠 Core CS
-`Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Database Design`
-
-### 🤝 Soft Skills
-`Public Speaking` • `Strategic Communication` • `Prioritization` • `Learning Agility` • `Cross-team Collaboration`
+### ☁️ Databases, DevOps & Tools
+`MySQL` • `MongoDB` • `Firebase` • `Git` • `GitHub` • `Docker` • `Linux` • `Postman` • `Azure`
 
 ---
 
@@ -54,7 +45,7 @@ Currently exploring **Software Engineering, Backend Systems, AI Engineering, and
 - 🤖 Repository Intelligence RAG — AI-powered codebase understanding platform
 - 📦 QuickStore — Full-stack inventory management system
 - ✍️ Scribe — Real-time content publishing platform
-- 🌏 Multilingual Scene Text Recognition
+- 🌏 Multilingual Scene Text Recognition - Telugu, Bengali, Odiya
 - 👗 Zenvia — AI-powered Fashion Intelligence System
 
 ---
