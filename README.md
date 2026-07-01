@@ -77,7 +77,7 @@ Passionate about building scalable software and AI-powered applications.
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/madhuri-gottumukkala/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
