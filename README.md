@@ -16,7 +16,7 @@ Passionate about building scalable software and AI-powered applications.
 
 - 👯 **Looking to collaborate on:** Software Engineering, AI/ML, Backend & Open Source projects
 
-- 💬 **Ask me about:** Java, Python, Backend Development, Machine Learning, Computer Vision, NLP, LLMs, RAG & Salesforce Development
+- 💬 **Ask me about:** Python, Java, Backend Development, Machine Learning, Computer Vision, NLP, LLMs, RAG & Salesforce Development
 
 - 🏢 **Experience:** AMTS STEP Intern @ Salesforce
 
